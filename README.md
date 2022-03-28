@@ -35,7 +35,7 @@
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-000000.svg?&style=for-the-badge&logo=FastAPI&logoColor=white" height="25"/>
   <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23CC0000.svg?&style=for-the-badge&logo=Laravel&logoColor=white" height="25"/>
-  <img alt="Hardhat" src="https://img.shields.io/badge/Hardhat%20-%2335495e.svg?&style=for-the-badge&logo=Hardhat&logoColor=%234FC08D" height="25"/>
+  <img alt="Hardhat" src="https://img.shields.io/badge/Hardhat-F7DF1E.svg?&style=for-the-badge&logo=Hardhat&logoColor=white" height="25"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
   <img alt="JQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25"/>
   <img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
@@ -65,9 +65,11 @@
 </p>
 
 ##### 🎨 Design
+<p>
 <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" height="25"/>
 <img alt="Adobe Creative Cloud" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" height="25"/>
 <img alt="Invision" src="https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white" height="25"/>
+</p>
 
 ### Stats
 
