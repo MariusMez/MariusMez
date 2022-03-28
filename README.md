@@ -4,7 +4,7 @@
 - 🔗 Blockchain Developer 
 - 🛠️ Full Stack Software Developer
 - 🐍 Data Scientist, AI engineer & Python addict 
-- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/mariusmezerette/), [StackOverflow](https://stackoverflow.com/users/645388/marius) or [Twitter](https://twitter.com/MariusMez)
+- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/mariusmezerette/), [StackOverflow](https://stackoverflow.com/users/645388/marius) or [Twitter](https://twitter.com/MezPhotos)
 
 ### Skills
 
