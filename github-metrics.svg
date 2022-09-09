@@ -2485,7 +2485,7 @@ os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="/path/to/file.json"</code>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Sept 2022, 17:14:57 (timezone Europe/Paris) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 9 Sept 2022, 18:16:50 (timezone Europe/Paris) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
