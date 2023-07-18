@@ -38,7 +38,7 @@
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-000000.svg?&style=for-the-badge&logo=FastAPI&logoColor=white" height="25"/>
   <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
   <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="25"/>
-  <img alt="ReactJS" src=" https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" height="25"/>
+  <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" height="25"/>
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23CC0000.svg?&style=for-the-badge&logo=Laravel&logoColor=white" height="25"/>
   <img alt="Hardhat" src="https://img.shields.io/badge/Hardhat-F7DF1E.svg?&style=for-the-badge&logo=Hardhat&logoColor=white" height="25"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
